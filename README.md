@@ -1,0 +1,1 @@
+This is a bitcoin price predictor by Aaron Berko. I don't expect this to be this good
